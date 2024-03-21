@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-30T15:36:30 IST" name="Default suite" finished-at="2023-05-30T15:36:30 IST" duration-ms="190">
+    <groups>
+    </groups>
+    <test started-at="2023-05-30T15:36:30 IST" name="Default test" finished-at="2023-05-30T15:36:30 IST" duration-ms="190">
+      <class name="BatchTesting.HomeScreenTest">
+        <test-method signature="LaunchApplication()[pri:0, instance:BatchTesting.HomeScreenTest@795cd85e]" started-at="2023-05-30T15:36:30 IST" name="LaunchApplication" finished-at="2023-05-30T15:36:30 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="VerifyLogo()[pri:0, instance:BatchTesting.HomeScreenTest@795cd85e]" started-at="2023-05-30T15:36:30 IST" name="VerifyLogo" finished-at="2023-05-30T15:36:30 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogo -->
+        <test-method signature="VerifyTitle()[pri:0, instance:BatchTesting.HomeScreenTest@795cd85e]" started-at="2023-05-30T15:36:30 IST" name="VerifyTitle" finished-at="2023-05-30T15:36:30 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTitle -->
+      </class> <!-- BatchTesting.HomeScreenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
